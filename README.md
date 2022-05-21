@@ -14,7 +14,9 @@
 - :man_technologist:I have worked on bluetooth interfaced project and currently working on adding features to simpPRU in Beagleboard :computer: 
 
 **Contact**
-:email:krishnanarayanan132002@gmail.com
+
+:email:
+krishnanarayanan132002@gmail.com
 
 **Languages and Tools:**  
 
