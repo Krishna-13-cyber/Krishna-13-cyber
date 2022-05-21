@@ -11,7 +11,7 @@
 
 - 👨🏽‍💻 I’m currently pursuing a bachelor's in electronics and telecommunication engineering at VJTI, Mumbai
 - 🤔 My interest lies in embedded systems and compiler related domains.
-- 
+- I have worked on bluetooth interfaced project and currently working on adding features to simpPRU in Beagleboard :computer: 
 
 
 **Languages and Tools:**  
